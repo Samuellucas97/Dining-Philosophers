@@ -1,6 +1,8 @@
-# Dining Philosophers Problem
+
 [![Build Status](https://travis-ci.com/Samuellucas97/Phylosophers-Dinner.svg?branch=master)](https://travis-ci.com/Samuellucas97/Phylosophers-Dinner)
 ![License MIT](https://img.shields.io/npm/l/express.svg)
+
+# Dining Philosophers Problem
 
 ## Introduction  
 
