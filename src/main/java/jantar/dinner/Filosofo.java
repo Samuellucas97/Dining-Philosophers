@@ -1,4 +1,4 @@
-package jantarDosFilosofos;
+package jantar.dinner;
 
 public class Filosofo implements Runnable {
 	
@@ -39,7 +39,6 @@ public class Filosofo implements Runnable {
 		}
 	}
 
-	@Override
 	public void run() {
 		int id_anterior = id-1;
 

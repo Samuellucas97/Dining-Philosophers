@@ -1,4 +1,4 @@
-package jantarDosFilosofos;
+package jantar.dinner;
 
 import java.util.ArrayList;
 
